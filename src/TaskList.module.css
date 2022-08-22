@@ -33,10 +33,11 @@
 
 .taskWrapper{
     width: 46rem;
-    margin: 4rem auto;
+    margin: 0 auto;
 }
 
 .taskSummary {
+    margin-top: 4.5rem;
     display: flex;
     justify-content: space-between;
 }
@@ -69,6 +70,6 @@
     font-size: 75%;
 }
 
-.taskList {
-    margin-top: 1.5rem;
+.taskSummary {
+    margin-bottom: 1.5rem;
 }
